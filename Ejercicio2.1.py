@@ -67,7 +67,7 @@ def algoritmo(entradas,neuronas,rate):
 		a3 = purelim(f)
 		gp2[0,i] = a3
 	return gp2
-#####################
+###################
 
 
 
